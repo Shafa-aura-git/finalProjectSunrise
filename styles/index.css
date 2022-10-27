@@ -1,0 +1,21 @@
+#btn-register {
+    border-color: #9D634F;
+    border-radius: 30px;
+    color: #9D634F;
+    width: 122px;
+    height: 43px;
+    font-weight: 600px;
+    font-size: 18px;
+}
+
+#btn-login {
+    border-color: #9D634F;
+    border-radius: 30px;
+    background-color: #9D634F;
+    color: #FFFFFF;
+    width: 122px;
+    height: 43px;
+    font-weight: 600px;
+    font-size: 18px;
+    
+}
