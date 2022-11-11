@@ -18,31 +18,3 @@
     font-weight: 600px;
     font-size: 18px;
 }
-
-#divVideo {
-    position: relative;
-}
-
-#iconShare {
-    position: absolute;
-    left: 200px;
-    display: block;
-}
-
-#footer-detailkursus {
-    font-size: 22px;
-    margin-top: 5px;
-}
-
-#videoDetailKursus {
-    margin-left: 26px;
-    border-radius: 20px;
-    width: 320px;
-    height: 180px;
-}
-
-#teksJudulKursus {
-    font-size:  16px;
-    font-weight: 600;
-    margin-left: 20px;
-}
