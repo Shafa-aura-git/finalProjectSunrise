@@ -11,10 +11,98 @@
 #btn-login {
     border-color: #9D634F;
     border-radius: 30px;
-    background-color: #9D634F;
-    color: #FFFFFF;
+    color: #9D634F;
     width: 122px;
     height: 43px;
     font-weight: 600px;
     font-size: 18px;
+    font-family: 'Outfit';
+}
+.class {
+    left: 30px;
+    position: left;
+    left: 37.5%;
+    right: 37.5%;
+    top: 25%;
+    bottom: 25%;
+    border: 1.5px solid #303437
+}
+body {
+    background-color: #FFF7EC;
+}
+img {
+    : center;
+    width: 187px;
+    height: 175px;
+    left: 25px;
+    top: 121px;
+}
+
+*
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit'
+
+.container {
+    width: 100%;
+    display: flex;
+    max-width: 850px;
+    background: #FFF7EC;
+    border-radius: 8px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+. login {
+    width: 400px;
+}    
+form {
+    width: 250px;
+    margin: 60px auto;
+}
+hr {
+    border-top: 2px solid #FFF7EC;
+}
+a { 
+    position: right;
+    color: #2D897F;
+}
+. right img {
+    position: center;
+    width: 450px;
+    height: 100%;
+}
+form label {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px;
+}
+input {
+    width: 100%;
+    margin: 2px;
+    height: 16px;
+    left: 16px;
+    right: 16px;
+}
+button {
+    background-color: #9D634F;
+    border-radius: 30px;
+    font-size: 18px;
+    position: absolute;
+    width: 244px;
+    height: 42px;
+    left: 57px;
+    top: 550px;
+}
+.digit-group input {
+    width: 30px;
+    height: 50px;
+    background-color: #ffff;
+    border: none;
+    line-height: 50px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 200;
+    color: black;
+    margin: 0 2px;
 }
