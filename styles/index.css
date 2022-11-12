@@ -1,4 +1,4 @@
-#btn-register {
+/* #btn-register {
     border-color: #9D634F;
     border-radius: 30px;
     color: #9D634F;
@@ -6,19 +6,21 @@
     height: 43px;
     font-weight: 600px;
     font-size: 18px;
-}
+} */
 
-#btn-login {
+.btn-login {
     border-color: #9D634F;
     border-radius: 30px;
-    color: #9D634F;
+    background-color:#9D634F ;
+    color: #ffffff;
     width: 122px;
     height: 43px;
     font-weight: 600px;
     font-size: 18px;
     font-family: 'Outfit';
 }
-.class {
+
+/* .class {
     left: 30px;
     position: left;
     left: 37.5%;
@@ -26,35 +28,20 @@
     top: 25%;
     bottom: 25%;
     border: 1.5px solid #303437
-}
-body {
-    background-color: #FFF7EC;
-}
-img {
-    : center;
-    width: 187px;
-    height: 175px;
-    left: 25px;
-    top: 121px;
-}
+} */
 
-*
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Outfit'
 
 .container {
     width: 100%;
-    display: flex;
     max-width: 850px;
     background: #FFF7EC;
     border-radius: 8px;
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
 }
-. login {
+
+.login {
     width: 400px;
 }    
+
 form {
     width: 250px;
     margin: 60px auto;
@@ -62,29 +49,28 @@ form {
 hr {
     border-top: 2px solid #FFF7EC;
 }
+
 a { 
     position: right;
     color: #2D897F;
 }
-. right img {
-    position: center;
-    width: 450px;
-    height: 100%;
-}
-form label {
+
+/* form label {
     display: block;
     font-size: 16px;
     font-weight: 600;
     padding: 5px;
-}
-input {
+} */
+
+/* input {
     width: 100%;
     margin: 2px;
     height: 16px;
     left: 16px;
     right: 16px;
-}
-button {
+} */
+
+/* button {
     background-color: #9D634F;
     border-radius: 30px;
     font-size: 18px;
@@ -93,7 +79,8 @@ button {
     height: 42px;
     left: 57px;
     top: 550px;
-}
+} */
+
 .digit-group input {
     width: 30px;
     height: 50px;
