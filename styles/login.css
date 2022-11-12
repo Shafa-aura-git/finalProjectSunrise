@@ -1,0 +1,24 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form form {
+    margin-right: 20px;
+    margin-left: 20px; 
+}
+
+.container form button{
+    width: 100%;
+    padding: 100px 100;
+    border: none;
+    background-color:#61250b;
+    font-size: 15px;
+    color: #ffffff;
+    margin-top: 20px;
+   
+
+.form > form > input {
+    width: 100%;
+}
